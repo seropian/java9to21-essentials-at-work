@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>java9to21-essentials-at-work</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>01.java9-modules-client</module>
+        <module>02.java9-modules-provider</module>
+        <module>04.java9-convenience-factory-methods-for-collections</module>
+        <module>05.java9-stream-api-improvements</module>
+        <module>06.java9-private-interface-methods</module>
+        <module>07.java9-multi-resolution-image-api</module>
+        <module>08.java9-the-process-handle-api</module>
+        <module>09.java9-completable-future-api-improvements</module>
+        <module>10.java9-reactive-streams</module>
+        <module>11.java9-try-with-resources-improvement</module>
+        <module>12.java9-diamond-operator-extension-for-anonymous-inner-class</module>
+        <module>13.java9-the-optional-api-enhancements</module>
+        <module>14.java9-enhanced-deprecated-annotation</module>
+        <module>15.java11-local-variable-type-inference</module>
+        <module>16.java11-unmodifiable-collections</module>
+        <module>17.java11-optional-or-else-throw</module>
+        <module>18.java11-http2-client</module>
+        <module>19.java11-local-variable-syntax-for-lambda-params</module>
+        <module>20.java11-launch-single-file-source-code-programs</module>
+        <module>21.java17-switch-expressions</module>
+        <module>22.java17-text-blocks</module>
+        <module>23.java17-pattern-matching-for-instanceof</module>
+        <module>24.java17-records</module>
+        <module>25.java17-packaging-tools</module>
+        <module>26.java17-sealed-classes</module>
+        <module>27.java17-strongly-encapsulate-jdk-internals</module>
+        <module>28.java21-utf8-by-default</module>
+        <module>29.java21-simple-web-server</module>
+        <module>30.java21-code-snippets-in-java-api-docs</module>
+        <module>31.java21-virtual-threads</module>
+        <module>32.java21-sequenced-collections</module>
+    </modules>
+
+</project>
